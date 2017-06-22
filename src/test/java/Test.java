@@ -3,6 +3,7 @@ package test.java;
 import main.java.bo.Flight;
 import main.java.support.PricingCalculations;
 import junit.framework.TestCase;
+import main.java.enums.Airport;
 
 public class Test extends TestCase{
 	
